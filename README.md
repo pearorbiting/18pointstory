@@ -9,4 +9,6 @@ Also, since everything has a beginning, middle, and end, it seems natural to bre
 
 Suggested use is printing the PDF and filling the fields with your own creation.
 
+At first this came together for a visual novel I'm working on.
+
 I hope you find it helpful!
