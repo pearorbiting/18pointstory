@@ -1,7 +1,7 @@
 # 18pointstory
 _Lyndon's Synthesized Symmetric 18-Point Story Structure_
 
-This is a general outline of stories, one based most of all on KM Weiland's Plot Circle. It works like a palindrome; each point relates to its reflection on the other end of the story. Trigger -> Peak, Pinch Point -> Sabotage.
+This is a general outline of stories, one based most of all on KM Weiland's Plot Circle. It works like a palindrome; each point relates to its reflection on the other end of the story. Image -> Resolved Image, Trigger -> Peak, Pinch Point -> Sabotage, etc.
 
 Breaking each act of Three-Act Structure into two pieces may help with understanding the longer second act, as in The W Plot and Four-Act Structure.
 
