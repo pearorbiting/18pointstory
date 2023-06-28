@@ -1,7 +1,7 @@
 # 18pointstory
 _Lyndon's Synthesized Symmetric 18-Point Story Structure_
 
-This is a general outline of stories, but based most of all on KM Weiland's Plot Circle.
+This is a general outline of stories, but it's based most of all on KM Weiland's Plot Circle. It works like a palindrome, with each point relating to its reflected point on the other end of the story.
 
 Breaking each act in Three-Act Structure into two pieces may help with understanding the longer second act, as in The W Plot and Four-Act Structure.
 
