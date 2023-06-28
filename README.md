@@ -1,5 +1,5 @@
 # 18pointstory
-Lyndon's Synthesized Symmetric 18-Point Story Structure
+_Lyndon's Synthesized Symmetric 18-Point Story Structure_
 
 This is a general outline of stories based most of all on KM Weiland's Plot Circle.
 
